@@ -24,7 +24,7 @@ If you find Project Name useful for your work please cite:
 @article{key
   author    = {Author One and Author Two},
   title     = {Paper Title},
-  journal   = {arXi preprint arXiv:NUMBER},
+  journal   = {arXiv preprint arXiv:NUMBER},
   year      = {2024},
 }
 ```
