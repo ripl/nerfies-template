@@ -16,7 +16,7 @@
 
 # Project Name
 
-This is the repository that contains source code for the [Project Name website](https://ripl.github.io).
+This is the repository that contains source code for [Project Name](https://ripl.github.io).
 
 # BibTeX
 If you find Project Name useful for your work please cite:
